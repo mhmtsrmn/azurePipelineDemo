@@ -1,6 +1,6 @@
 
 def print_status():
-  print("successful")
+  print("successful mf")
 
 def main():
   print_status()
